@@ -1,1 +1,3 @@
-void callme() {}
+void callme() {
+  var a = 4;
+}
